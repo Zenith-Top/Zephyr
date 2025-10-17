@@ -1,0 +1,43 @@
+
+var ftGUID_9344892="6486C704BB04AF";
+var ftConfID_9344892="0";
+var ftParams_9344892="ftOBA=1&ft_domain=www.vecteezy.com&ft_ifb=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.vecteezy.com%2F&us_privacy=${US_PRIVACY}&ft_partnerimpid=ABAjH0jlNbAc609Qt__FPj2KKdRF&cachebuster=642161.3812025556";
+var ftKeyword_9344892="";
+var ftCustom_9344892="";
+var ftSection_9344892="";
+var ftSegment_9344892="";
+var ftSegmentList_9344892=[];
+var ftRuleMatch_9344892="0";
+var ftTimestamp_9344892="1759577537";
+var ftGeoC2_9344892="ng";
+var ftGeoState_9344892="de";
+var ftGeoCity_9344892="sapele";
+var ftISP_9344892="mtn nigeria";
+var ftSpeed_9344892="mobile";
+var ftConnType_9344892="mobile";
+var ftDMA_9344892="-1";
+var ftLong_9344892="5.68";
+var ftLat_9344892="5.89";
+var ftPostal_9344892="331211";
+var ftTimeZone_9344892="+100";
+var ftMobileCarrier_9344892="mtn";
+var ftImp9344892 = {};
+ftImp9344892.privacy = "x";
+ftImp9344892.guidAge = "0";
+ftImp9344892.impID = "910618FA-7E7A-13AC-C2D8-87080423D56D";
+ftImp9344892.duid = "FT:6486C704BB04AF";
+
+ftImp9344892.ft_tpplid = "";
+ftImp9344892.ft_c = {};
+ftImp9344892.gdpr = "";
+ftImp9344892.gdpr_consent = "";
+ftImp9344892.gdpr_pd = "";
+ftImp9344892.oob_consent = "";
+ftImp9344892.gdprStoredConsent = "";
+ftImp9344892.us_privacy = "!!US_PRIVACY!";
+ftImp9344892.gpc = "";
+
+ftImp9344892.jsAppend = "1";
+var ftCreativeId_9344892 = "4970800";
+(function(){var tag=document.getElementById("ft_servedby_9344892")||function(s){return s[s.length-1]}(document.getElementsByTagName("script")),js=document.createElement("script");js.src="https://ajs-assets.ftstatic.com/ftUtils.js";js.id="ftscript_m9344892";js.setAttribute("name","ftscript_m9344892");tag.parentNode.insertBefore(js,tag)})();window.fTChecker=window.fTChecker||function(id){if(!id)return false;id=""+id;if(window.hasOwnProperty("ftUtils")){window["ft"+id]=Object.assign({},window.ftUtils.common);window["ft"+id].getBannerConfig(id)}else(function(id){window.setTimeout(function(){window.fTChecker(id)},50)})(id)};window.fTChecker("9344892");
+
