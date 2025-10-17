@@ -560,3 +560,20 @@ ul li a.active {
      }
 }
 
+@media(max-width:470px) {
+    .hero{
+        height: 40vh;
+        padding:22px 5px;
+    }
+
+    .hero h1 {
+       font-size:30px;
+       margin-bottom: 3px;
+    }
+
+    .hero .subtitle {
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+}
+
